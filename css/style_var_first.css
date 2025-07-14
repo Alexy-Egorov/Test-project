@@ -561,7 +561,8 @@ input::-webkit-input-placeholder {
   gap: 1rem;
 }
 
-.lowerbox_second a:active {
+.lowerbox_second a:active,
+.lowerbox_second a:hover {
   transform: scale(105%);
 }
 
